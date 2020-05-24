@@ -1,2 +1,2 @@
-# Jupyter-FirstWorksheet
+# Jupyter-Worksheets
 First Python Project
